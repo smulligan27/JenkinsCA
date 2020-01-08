@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-                git 'https://github.com/Samp21/JenkinsCA'
+                git 'https://github.com/smulligan27/JenkinsCA'
             }
         }
         stage('Build_Project')
